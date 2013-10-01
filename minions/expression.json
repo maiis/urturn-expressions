@@ -1,0 +1,14 @@
+{
+  "title": "Minions",
+  "description": "",
+  "system_name": "minions",
+  "version": "3.0.0",
+  "api_version": "1.2.8",
+  "dependencies": [
+    { "path": "css/styles.css" },
+    { "path": "css/editor-styles.css", "context": "editor" },
+
+    { "path": "js/editor.js", "context": "editor" },
+    { "path": "js/player.js", "context": "player" }
+  ]
+}
